@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on ... Big Data Analysis & Business Intelligence
-- 🌱 I’m currently learning ... Supervised Machine Learning Algorithms & Apache Spark
-- 👯 I’m looking to collaborate on ... MERN stack, Business Intelligence projects in pySpark & Scala
+- 🔭 I’m currently working on ... Building the most popular e-commerce application
+- 🌱 I’m currently learning ... How to focus
+- 👯 I’m looking to collaborate on ... MERN stack, Java Stack projects
 - 💬 Ask me about ... Fullstack development
 - 📫 How to reach me: ... agrawal.abhinav98@gmail.com
 - :globe_with_meridians: Check out my portfolio here -> ... [About Abhinav](https://about-abhinav.web.app/)
